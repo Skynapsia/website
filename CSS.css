@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: "https://cdn.discordapp.com/attachments/1186400251855261706/1309853383448072243/attachment_4.gif?ex=67a35506&is=67a20386&hm=c2f5baa30541099722f4d25e5a784b5dea26ca4a80eb96acb5dd53a6af391972&";
+    
+}
+
+p {
+    color:rgb(255, 255, 255);
+    text-align:center;
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    text-align:center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
